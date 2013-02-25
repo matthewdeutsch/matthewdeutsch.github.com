@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://matthewdeutsch.github.com/sitemap.xml 
