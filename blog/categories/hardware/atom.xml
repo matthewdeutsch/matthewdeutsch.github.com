@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Matt's Musings]]></title>
-  <link href="http://matthewdeutsch.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Hardware | Matt's Musings]]></title>
+  <link href="http://matthewdeutsch.org/blog/categories/hardware/atom.xml" rel="self"/>
   <link href="http://matthewdeutsch.org/"/>
   <updated>2013-02-24T17:33:47-08:00</updated>
   <id>http://matthewdeutsch.org/</id>
@@ -24,11 +24,11 @@
 
 <p><strong>Hardware</strong></p>
 
-<p>The watch face itself is built surprisingly well for a small indie hardware team. While it is not made of curved glass as a potential Apple &#8220;iWatch&#8221; is rumored to have, it is comfortable to wear and is lighter than expected. The rubber watchband shipped with the device, however, is bland and mediocre. Fortunately this can be replaced with any standard watchband.</p>
+<p>The watch face itself is built surprisingly well for a small indie hardware team. While it is not made of curved glass as a potential Apple "iWatch" is rumored to have, it is comfortable to wear and is lighter than expected. The rubber watchband shipped with the device, however, is bland and mediocre. Fortunately this can be replaced with any standard watchband.</p>
 
-<p>The always-on e-ink screen is very readable in sunlight, and has a backlight that can be activated by clicking one of the buttons or simply a flicking of the wrist (this one took me some time to figure out, but is a welcome gesture). The 144x168 resolution isn&#8217;t spectacular, but felt good enough for a secondary screen. My only experience with e-ink displays has been through the first generation <a href="http://gdgt.com/amazon/kindle/dx/1st-gen/">Kindle</a>, and I didn&#8217;t realize just how much the refresh rates have improved on these displays, as I found the transitions to appear smooth.</p>
+<p>The always-on e-ink screen is very readable in sunlight, and has a backlight that can be activated by clicking one of the buttons or simply a flicking of the wrist (this one took me some time to figure out, but is a welcome gesture). The 144x168 resolution isn't spectacular, but felt good enough for a secondary screen. My only experience with e-ink displays has been through the first generation <a href="http://gdgt.com/amazon/kindle/dx/1st-gen/">Kindle</a>, and I didn't realize just how much the refresh rates have improved on these displays, as I found the transitions to appear smooth.</p>
 
-<p>The buttons do not feel as sturdy as one would hope, and in fact I have read at least one report of a button falling out. Hopefully I&#8217;m not jinxing myself.</p>
+<p>The buttons do not feel as sturdy as one would hope, and in fact I have read at least one report of a button falling out. Hopefully I'm not jinxing myself.</p>
 
 <p>To charge the watch a USB-Pebble cable is included, which works similarly to the Apple <a href="http://en.wikipedia.org/wiki/MagSafe">MagSafe</a> connector in that it latches magnetically onto the side of the device.</p>
 
@@ -39,11 +39,11 @@
 
 <p>This was probably the most frustrating part of the owning the watch so far, as I had to attempt pairing the device to my iPhone over Bluetooth a couple times before getting them to talk to each other. The Pebble iPhone app also crashed on me while trying to upgrade the firmware (yes, there are already firmware upgrades available!).</p>
 
-<p>While I cannot speak to Android as I don&#8217;t have an Android phone to test my Pebble with, I suspect that the setup process and overall experience is currently a bit smoother than the iOS one, due to both iOS being more of a closed platform and to the way iOS 6 handles communication with other Bluetooth devices.</p>
+<p>While I cannot speak to Android as I don't have an Android phone to test my Pebble with, I suspect that the setup process and overall experience is currently a bit smoother than the iOS one, due to both iOS being more of a closed platform and to the way iOS 6 handles communication with other Bluetooth devices.</p>
 
 <p><strong>OS</strong></p>
 
-<p>The watch is operated with four buttons: up, down, select, and back. It&#8217;s a relatively simple interface to learn, and since the app selection is currently very sparse, there&#8217;s only so much that can be done on the device. Of course, this will change once Pebble&#8217;s free <a href="http://developer.getpebble.com/">SDK</a> becomes publicly available.</p>
+<p>The watch is operated with four buttons: up, down, select, and back. It's a relatively simple interface to learn, and since the app selection is currently very sparse, there's only so much that can be done on the device. Of course, this will change once Pebble's free <a href="http://developer.getpebble.com/">SDK</a> becomes publicly available.</p>
 
 <p>The current features include dismissing notifications as they get pushed from your smartphone, changing watch faces, setting alarms, and controlling music played on your smartphone. The great thing about notifications is that any iOS app that shows up in the Notifications Settings list can be pushed to your watch, which provides a lot of flexibility and minimal setup.</p>
 
@@ -53,21 +53,21 @@
 
 <p>There have been many benefits to owning the Pebble that I did not anticipate when I initially funded the project last May. The best part about owning this device is that it means fewer times you need to pull your phone out of your pocket.</p>
 
-<p>This is handy in many cases, whether it&#8217;s walking outdoors, mounting on my <a href="https://sphotos-a.xx.fbcdn.net/hphotos-prn1/521688_1760279490287_726574392_n.jpg">bike</a> while my phone is stowed away under my seat, or even in the shower (yes, the watch is waterproof!). I plan to take it skiing this weekend, which will save me the trouble of having to take off my gloves if my phone vibrates. Another use case is when talking face to face with someone, and not having to pull out your phone, which I find can be quite rude. While staring at your watch isn&#8217;t much better, at least it can be done in a more discreet way. In each of these cases, it prevents the user from having to check their phone at every vibration, as a glance at the wrist can determine if the notification is worth tending to.</p>
+<p>This is handy in many cases, whether it's walking outdoors, mounting on my <a href="https://sphotos-a.xx.fbcdn.net/hphotos-prn1/521688_1760279490287_726574392_n.jpg">bike</a> while my phone is stowed away under my seat, or even in the shower (yes, the watch is waterproof!). I plan to take it skiing this weekend, which will save me the trouble of having to take off my gloves if my phone vibrates. Another use case is when talking face to face with someone, and not having to pull out your phone, which I find can be quite rude. While staring at your watch isn't much better, at least it can be done in a more discreet way. In each of these cases, it prevents the user from having to check their phone at every vibration, as a glance at the wrist can determine if the notification is worth tending to.</p>
 
-<p>I only use my phone on vibrate, and there are many times where I&#8217;ve missed calls because I simply didn&#8217;t feel my phone go off in my pocket, or had my phone somewhere else in the room. I can imagine the same would go for a woman who keeps her phone in a handbag. Wearing the Pebble has already saved me once from missing an important call, as I did not have my phone on me.</p>
+<p>I only use my phone on vibrate, and there are many times where I've missed calls because I simply didn't feel my phone go off in my pocket, or had my phone somewhere else in the room. I can imagine the same would go for a woman who keeps her phone in a handbag. Wearing the Pebble has already saved me once from missing an important call, as I did not have my phone on me.</p>
 
-<p>As we are currently in the wet season in San Francisco, it prevents me from having my phone exposed to possible water damage if I&#8217;m walking outside while it&#8217;s raining.</p>
+<p>As we are currently in the wet season in San Francisco, it prevents me from having my phone exposed to possible water damage if I'm walking outside while it's raining.</p>
 
-<p>I can&#8217;t wait for some fitness-related apps to come out for the Pebble, which should allow it to compete with specialized fitness devices such as the <a href="http://www.nike.com/us/en_us/lp/nikeplus-fuelband">Nike+ FuelBand</a> and <a href="http://www.fitbit.com/one">Fitbit</a>.</p>
+<p>I can't wait for some fitness-related apps to come out for the Pebble, which should allow it to compete with specialized fitness devices such as the <a href="http://www.nike.com/us/en_us/lp/nikeplus-fuelband">Nike+ FuelBand</a> and <a href="http://www.fitbit.com/one">Fitbit</a>.</p>
 
 <p><strong>Bugs/Improvements</strong></p>
 
 <p>So far with only moderate use of the Pebble, it only seems to last three days at a time before dying on me. It is definitely annoying to have another device to worry about charging all the time, but hopefully Bluetooth 4.0 support and other future enhancements can double the battery life to around a week. In addition, having my iPhone paired with the Pebble watch and having the Bluetooth radio on all the time seems to draw a little more than the reported 10% additional battery drain on my phone. Of course, support for <a href="http://en.wikipedia.org/wiki/Bluetooth_low_energy">Bluetooth low energy</a> should improve this drain on my phone as well.</p>
 
-<p>The Pebble&#8217;s OS has not crashed on me yet, however there are still notifications that don&#8217;t seem to make it to the watch unless I repair the devices together and/or fix each individual app&#8217;s notification settings. Again, this is more likely due to iOS Bluetooth bugs and there may not be anything Pebble can do at the moment.</p>
+<p>The Pebble's OS has not crashed on me yet, however there are still notifications that don't seem to make it to the watch unless I repair the devices together and/or fix each individual app's notification settings. Again, this is more likely due to iOS Bluetooth bugs and there may not be anything Pebble can do at the moment.</p>
 
-<p>Regarding the current apps on the watch, all of the apps besides the music remote control app are passive in that they don&#8217;t relay any information back to the phone. Unfortunately, notifications are read-only right now, but it would be great in the future if you could for example choose from a selection of canned messages to respond with to a text.</p>
+<p>Regarding the current apps on the watch, all of the apps besides the music remote control app are passive in that they don't relay any information back to the phone. Unfortunately, notifications are read-only right now, but it would be great in the future if you could for example choose from a selection of canned messages to respond with to a text.</p>
 
 <p>Another problem with notifications is that you have to dismiss them to get back to the default watch face view (I want to see the current time, this is a watch after all!). Newer notifications immediately replace older ones, and there is no way to currently view older notifications, which becomes annoying if a couple come in at once. In addition, dismissing a notification on the watch does not reflect on the phone, meaning that particular notification will still be need to be additionally dismissed on the phone.</p>
 
